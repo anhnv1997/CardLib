@@ -1,0 +1,10 @@
+C:\Users\VIET ANH\Desktop\CardLibrary\bin\Debug\netstandard2.0\CardLibrary.deps.json
+C:\Users\VIET ANH\Desktop\CardLibrary\bin\Debug\netstandard2.0\CardLibrary.dll
+C:\Users\VIET ANH\Desktop\CardLibrary\bin\Debug\netstandard2.0\CardLibrary.pdb
+C:\Users\VIET ANH\Desktop\CardLibrary\obj\Debug\netstandard2.0\CardLibrary.csproj.AssemblyReference.cache
+C:\Users\VIET ANH\Desktop\CardLibrary\obj\Debug\netstandard2.0\CardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIET ANH\Desktop\CardLibrary\obj\Debug\netstandard2.0\CardLibrary.AssemblyInfoInputs.cache
+C:\Users\VIET ANH\Desktop\CardLibrary\obj\Debug\netstandard2.0\CardLibrary.AssemblyInfo.cs
+C:\Users\VIET ANH\Desktop\CardLibrary\obj\Debug\netstandard2.0\CardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VIET ANH\Desktop\CardLibrary\obj\Debug\netstandard2.0\CardLibrary.dll
+C:\Users\VIET ANH\Desktop\CardLibrary\obj\Debug\netstandard2.0\CardLibrary.pdb
